@@ -1,0 +1,11 @@
+assets:
+  - name: "Ibovespa"
+    keywords: ["IPCA", "Selic", "Petrobras", "Vale", "Fiscal"]
+  - name: "Dólar"
+    keywords: ["FED", "Inflation", "Treasury", "USA"]
+  - name: "Gold"
+    keywords: ["War", "Crisis", "Safe Haven", "Geopolitics"]
+
+sources:
+  languages: ["en", "pt"]
+  relevance_threshold: 7  # Escala de 0 a 10
